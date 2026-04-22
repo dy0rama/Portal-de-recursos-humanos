@@ -6,6 +6,7 @@ O objetivo desse programa é permitir:
       4. Validação de regras de negócio
 
 Tipos de funcionários:
+
       Tipo               Bate Ponto       Hora Extra
 
       1. Gerente         Não              0h
