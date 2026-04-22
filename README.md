@@ -7,7 +7,7 @@ O objetivo desse programa é permitir:
 
 Tipos de funcionários:
 
-         Tipo               Bate Ponto       Hora Extra
+      #  Tipo            Bate Ponto       Hora Extra
 
       1. Gerente         Não              0h
       2. Coordenador     Sim              5h
